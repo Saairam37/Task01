@@ -380,7 +380,7 @@ footer>div{
         justify-content: space-between;
     }
     #menu{
-        gap: 0.21em;
+        gap: 0.11em;
         order: 3;
         flex-grow: 1;
         justify-content: center;
